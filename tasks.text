@@ -1,0 +1,63 @@
+Linked List  	
+> Add first & last , second & second last ...... in O(n) - ( Recursive and Non recursive)
+> Linked List is Palindrome or not
+
+Stacks	
+> Stack implementation using LinkedStack  - Basic Operations 
+> Multiple stacks in 1 Array
+> Min element in a Stack in O (1)
+> Implement Stack using Queues 
+> Brackets Validation
+> HTML TAGS validator
+
+Queues	
+> Queue Basic Operations - (ArrayQueue , LinkedQueue, Circular Queues) 
+> Implement Queue using Stacks.
+
+Hash Table	
+> Implement Hash Table with collision handling
+> Count the number of words in a string
+
+Priority Queues and Heaps	
+> Find median in a stream
+> Operations on Binary Min heap
+> Kth largest element in a stream
+> Merge K sorted linked list
+
+
+Sorting 
+> Heap Sort
+
+String Algorithms	
+> Z Algorithm
+
+Trees
+> Creating a  BST 
+> Traversals (Inorder, Preorder and Postorder).
+> Iterative Traversals (Inorder, Preorder and Postorder).
+> Calculate Height of a Tree 
+> Path in the Tree ( Highest cost , Print the paths)
+> Level Order Traversal
+> Level Order Traversal in Spiral Form 
+> Reverse Level Order Traversal
+> Mirror of a Tree
+> Vertical Order Traversal 
+> Top View of a Tree 
+> Bottom View of a Tree
+> Check is tree is valid BST or no
+> Binary Tree to Doubly Linked List
+> Delete a Node in BST 
+> Palindromic tree 
+> Lowest Common Ancestor
+> Diameter of a Binary Tree 
+> Delete a Tree 
+> Construct a Tree from Inorder and Preorder, 
+> Construct a Tree from InOrder and PostOrder
+> Implement Tree using Array
+
+Suffix Arrays
+> Longest Repeated String - Overlapping
+> Longest Repeated String - Non - Overlapping
+> Longest Repeated String which occurs n times 
+> All Anagrams in Dictionary  
+> Longest Common Prefix
