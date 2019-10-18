@@ -32,25 +32,10 @@ String Algorithms
 > Z Algorithm
 
 Trees
-> Creating a  BST 
-> Traversals (Inorder, Preorder and Postorder).
-> Iterative Traversals (Inorder, Preorder and Postorder).
-> Calculate Height of a Tree 
-> Path in the Tree ( Highest cost , Print the paths)
-> Level Order Traversal
-> Level Order Traversal in Spiral Form 
-> Reverse Level Order Traversal
-> Mirror of a Tree
-> Vertical Order Traversal 
 > Top View of a Tree 
 > Bottom View of a Tree
-> Check is tree is valid BST or no
 > Binary Tree to Doubly Linked List
-> Delete a Node in BST 
 > Palindromic tree 
-> Lowest Common Ancestor
-> Diameter of a Binary Tree 
-> Delete a Tree 
 > Construct a Tree from Inorder and Preorder, 
 > Construct a Tree from InOrder and PostOrder
 > Implement Tree using Array
